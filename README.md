@@ -35,7 +35,7 @@
         <img align="center" alt="Alex-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <!--         <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  -->
         <!-- <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  -->
-    <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://giffiles.alphacoders.com/133/13337.gif">
+    <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://i.pinimg.com/originals/6a/fc/e0/6afce0c0862a2562c72693989f48a315.gif">
         
    ##
      

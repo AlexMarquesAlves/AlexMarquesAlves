@@ -8,10 +8,16 @@
 
 ### Hola! Eu sou The Archduke Alex M Alves 👋
 
+
 - 🌱 Estou a estudar JavaScript, TypeScript, React, Python
 - 💬 Pergunte-me acerca de Tv series, Movies, Animes
 - 🤔 Em busca de emprego.
 - 😄 Pronouns: He/His.
+
+
+
+<img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
+
 
 #
 
@@ -37,6 +43,7 @@
 <!--         <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  -->
         <!-- <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  -->
     <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://i.pinimg.com/originals/6a/fc/e0/6afce0c0862a2562c72693989f48a315.gif">
+   
         
    ##
      

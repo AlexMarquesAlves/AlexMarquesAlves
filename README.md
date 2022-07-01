@@ -16,7 +16,7 @@
 
 
 
-<img align="right" alt="Alex-pic" height="200" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
+<img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
 
 
 #

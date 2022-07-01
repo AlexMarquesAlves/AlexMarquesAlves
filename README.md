@@ -6,7 +6,7 @@
 
 #
 
-### Hola! Eu sou The Archduke Alex M Alves 👋
+### Hola! Eu sou Alex M Alves 👋
 
 
 - 🌱 Estou a estudar JavaScript, TypeScript, React, Python
@@ -16,15 +16,16 @@
 
 
 
-<img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
+<img align="right" alt="Alex-pic" height="200" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
 
 
 #
 
  <div align="center">
   <a href="https://github.com/AlexMarquesAlves">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="125em" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  
+  <img height="180rem" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
 #

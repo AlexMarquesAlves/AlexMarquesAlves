@@ -23,9 +23,9 @@
 
  <div align="center">
   <a href="https://github.com/AlexMarquesAlves">
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
-  <img height="180rem" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160rem" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
 #

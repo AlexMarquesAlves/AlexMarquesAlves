@@ -16,17 +16,19 @@
 
 
 
-<img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
+
 
 
 #
 
- <div align="center">
+ <div align="center" height='200'>
   <a href="https://github.com/AlexMarquesAlves">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
-  <img height="160rem" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </div>
+
+<img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
  
 #
   

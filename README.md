@@ -6,7 +6,7 @@
 
 #
 
-### Hola! Eu sou Alex M Alves 👋
+### Hola! Eu sou ¡Duque 👋
 
 
 - 🌱 Estou a estudar JavaScript, TypeScript, React, Python

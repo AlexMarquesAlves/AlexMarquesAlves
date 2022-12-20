@@ -6,12 +6,14 @@
 
 #
 
-### Hola! Eu sou ¡Duque 👋
+### Hi! I'm ¡Duque 👋
 
-- 🌱 Estou a estudar JavaScript, TypeScript, React, Python
-- 💬 Pergunte-me acerca de Tv series, Movies, Animes
-- 🤔 Em busca de emprego.
-- 😄 Pronouns: He/His.
+- 🌱 I’m currently learning NodeJs and Express, SQL
+- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Tv series, Movies, Draws, Art, Music
+- 😄 Pronouns: ... He/His.
+- ⚡ Fun fact: ... I am Organist and I love to Code
 
 #
 
@@ -27,6 +29,7 @@
 
 #
 
+### Languages and Tools:
   <div style="display: inline_block" align="center"><br>
         <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,16 +37,17 @@
         <img align="center" alt="Alex-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
         <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Alex-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img align="center" alt="Alex-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
         <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Alex-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Alex-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img align="center" alt="Alex-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
         <!-- <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 
 <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://i.pinimg.com/originals/6a/fc/e0/6afce0c0862a2562c72693989f48a315.gif">
 
-##
 
+### Connect with me:
 <div >
   <a href="https://www.instagram.com/_alexmalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:atanaelleonardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

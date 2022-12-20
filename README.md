@@ -17,10 +17,10 @@
 
  <div align="center" >
 <!--   <a href="https://github.com/AlexMarquesAlves">    -->
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlexMarquesAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarquesAlves&layout=compact&langs_count=7&theme=midnight-purple"/>
   <br/>
-  <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMarquesAlves&theme=midnight-purple&hide_border=false" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMarquesAlves&theme=midnight-purple&hide_border=false" />
   </div>
 
 <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
